@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rajeev Kumar</h1>
+
+<img align="center" src="https://tse3.explicit.bing.net/th?id=OIP.W7a9_ZUrkU0-rX_nVFkwVAHaEK&pid=Api&P=0&h=180" width="1200" height="150" >
+
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://tse3.explicit.bing.net/th?id=OIP.W7a9_ZUrkU0-rX_nVFkwVAHaEK&pid=Api&P=0&h=180">
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elonerajeev" alt="elonerajeev" /></a> </p>
 
 - 🔭 I’m currently working on **HiddenLink Software**
